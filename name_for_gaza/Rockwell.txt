@@ -1,0 +1,157 @@
+1768 Compact Guardlogix L4xs Controller
+1768 Compact Guardlogix L4xs Controller Firmware
+1768 Compactlogix L4x Controller
+1768 Compactlogix L4x Controller Firmware
+1769 Compactlogix 5370 L1 Controller
+1769 Compactlogix 5370 L1 Controller Firmware
+1769 Compactlogix 5370 L2 Controller
+1769 Compactlogix 5370 L2 Controller Firmware
+1769 Compactlogix 5370 L3 Controller
+1769 Compactlogix 5370 L3 Controller Firmware
+1769 Compactlogix L23x Controller
+1769 Compactlogix L23x Controller Firmware
+1769 Compactlogix L3x Controller
+1769 Compactlogix L3x Controller Firmware
+Controllogix 5560 Controller
+Controllogix 5560 Controller Firmware
+Controllogix 5560 Redundant Controller
+Controllogix 5560 Redundant Controller Firmware
+Controllogix 5570 Controller
+Controllogix 5570 Controller Firmware
+Controllogix 5570 Redundant Controller
+Controllogix 5570 Redundant Controller Firmware
+Controllogix L55 Controller
+Controllogix L55 Controller Firmware
+Flexlogix L34 Controller
+Flexlogix L34 Controller Firmware
+Guardlogix 5570 Controller
+Guardlogix 5570 Controller Firmware
+Rslogix Emulate 5000
+Rslogix Emulate 5000 Firmware
+Softlogix 5800 Controller
+Softlogix 5800 Controller Firmware
+1756-enbt
+1756-enbt Series A
+1756-enbt Series A Firmware
+1756-eweb
+1763-l16awa
+1763-l16awa Firmware
+1763-l16awa Series A
+1763-l16awa Series B
+1763-l16bbb
+1763-l16bbb Firmware
+1763-l16bbb Series A
+1763-l16bbb Series B
+1763-l16bwa
+1763-l16bwa Firmware
+1763-l16bwa Series A
+1763-l16bwa Series B
+1763-l16dwd
+1763-l16dwd Firmware
+1763-l16dwd Series A
+1763-l16dwd Series B
+1766-l32awa
+1766-l32awa Firmware
+1766-l32awa Series A
+1766-l32awa Series B
+1766-l32awaa
+1766-l32awaa Firmware
+1766-l32awaa Series A
+1766-l32awaa Series B
+1766-l32bwa
+1766-l32bwa Firmware
+1766-l32bwa Series A
+1766-l32bwa Series B
+1766-l32bwaa
+1766-l32bwaa Firmware
+1766-l32bwaa Series A
+1766-l32bwaa Series B
+1766-l32bxb
+1766-l32bxb Firmware
+1766-l32bxb Series A
+1766-l32bxb Series B
+1766-l32bxba
+1766-l32bxba Firmware
+1766-l32bxba Series A
+1766-l32bxba Series B
+1768-enbt
+1768-eweb
+1794-aentr Flex I/o Ethernet/ip Adapter
+9328-ccwdevdee
+9328-ccwdevene
+9328-ccwdevese
+9328-ccwdevfre
+9328-ccwdevite
+9328-ccwdevpte
+9328-ccwdevzhe
+Ab Micrologix Controller
+Ab Micrologix Controller
+Ab Micrologix Controller 1100
+Ab Micrologix Controller 1400
+Compactlogix
+Compactlogix
+Compactlogix 1769-l16er-bb1b
+Compactlogix 1769-l18er-bb1b
+Compactlogix 1769-l18erm-bb1b
+Compactlogix 1769-l23e-qb1b
+Compactlogix 1769-l23e-qbfc1b
+Compactlogix 1769-l24er-qb1b
+Compactlogix 1769-l24er-qbfc1b
+Compactlogix 1769-l27erm-qbfc1b
+Compactlogix 1769-l30er
+Compactlogix 1769-l30er-nse
+Compactlogix 1769-l30erm
+Compactlogix 1769-l33er
+Compactlogix 1769-l33erm
+Compactlogix 1769-l36erm
+Compactlogix 5830
+Compactlogix 5830 Firmware
+Compactlogix Controller 1769 Firmware
+Compactlogix Controllers
+Compactlogix L32e Controller
+Compactlogix L35e Controller
+Connected Components Workbench
+Connected Components Workbench
+Controllogix
+Controllogix
+Controllogix 1756-enbt/a Ethernet/ Ip Bridge
+Controllogix 5580
+Controllogix 5580 Firmware
+Controllogix Controllers
+Eds Hardware Installation Tool
+Factorytalk
+Factorytalk Alarms And Events
+Factorytalk Diagnostics Viewer
+Factorytalk Energrymetrix
+Factorytalk Services Platform
+Factorytalk View Studio
+Flexlogix 1788-enbt Adapter
+Guardlogix
+Guardlogix
+Guardlogix Controllers
+Integrated Architecture Builder
+Logix 5000 Controller
+Micrologix
+Micrologix 1100
+Micrologix 1100 Firmware
+Micrologix 1400
+Micrologix 1400 Firmware
+Panelview Plus 6 700-1500
+Panelview Plus 6 700-1500 Firmware
+Plc-5 Controller
+Rslinx Classic
+Rslinx Enterprise
+Rslogix
+Rslogix 500 Professional Edition
+Rslogix 500 Standard Edition
+Rslogix 500 Starter Edition
+Rslogix 5000
+Rslogix 5000 Design And Configuration Software
+Rslogix Micro Developer
+Rslogix Micro Starter Lite
+Rsview32
+Slc 500 Controller
+Softlogic
+Softlogix
+Softlogix
+Softlogix Controllers

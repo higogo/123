@@ -1,0 +1,81 @@
+12400 Level Transmitter Device Type Manager
+Bently Nevada 3500/22m Serial
+Bently Nevada 3500/22m Serial Firmware
+Bently Nevada 3500/22m Usb
+Bently Nevada 3500/22m Usb Firmware
+Healthcare Millennium Mg Firmware
+Healthcare Millennium Myosight Firmware
+Healthcare Millennium Nc Firmware
+Hydran M2
+Intelligent Platforms Proficy Batch Execution
+Intelligent Platforms Proficy Dnp3 I/o Driver
+Intelligent Platforms Proficy Historian
+Intelligent Platforms Proficy Hmi%2fscada Cimplicity
+Intelligent Platforms Proficy Hmi/scada Cimplicity
+Intelligent Platforms Proficy Hmi/scada Ifix
+Intelligent Platforms Proficy Plant Applications
+Intelligent Platforms Proficy Process Systems
+Intelligent Platforms Proficy Process Systems With Cimplicity
+Intelligent Platforms Proficy Pulse
+Intelligent Platforms Proficy Real-time Information Porta
+Intelligent Platforms Proficy Real-time Information Portal
+Intelligent Platforms Si7 I/o Driver
+Mds Pulsenet
+Ml1200 Switch
+Ml1600 Switch
+Ml2400 Switch
+Ml3000 Switch
+Ml3100 Switch
+Ml800 Switch
+Ml810 Switch
+Multilin Sr 369 Motor Protection Relay
+Multilin Sr 369 Motor Protection Relay Firmware
+Multilin Sr 469 Motor Protection Relay
+Multilin Sr 469 Motor Protection Relay Firmware
+Multilin Sr 489 Generator Protection Relay
+Multilin Sr 489 Generator Protection Relay Firmware
+Multilin Sr 745 Transformer Protection Relay
+Multilin Sr 745 Transformer Protection Relay Firmware
+Multilin Sr 750 Feeder Protection Relay
+Multilin Sr 750 Feeder Protection Relay Firmware
+Multilin Sr 760 Feeder Protection Relay
+Multilin Sr 760 Feeder Protection Relay Firmware
+Multilin Universal Relay
+Multilin Universal Relay Firmware
+Multilin Urplus B95
+Multilin Urplus B95 Firmware
+Multilin Urplus C90
+Multilin Urplus C90 Firmware
+Multilin Urplus D90
+Multilin Urplus D90 Firmware
+Multilink Firmware
+Multilink Ml1200
+Multilink Ml1200 Firmware
+Multilink Ml1600
+Multilink Ml1600 Firmware
+Multilink Ml2400
+Multilink Ml2400 Firmware
+Multilink Ml3000
+Multilink Ml3000 Firmware
+Multilink Ml3100
+Multilink Ml3100 Firmware
+Multilink Ml800
+Multilink Ml800 Firmware
+Multilink Ml810
+Multilink Ml810 Firmware
+Snmp Web Adapter Firmware
+Snmp\/web Adapter 1024746
+Snmp\/web Adapter 1024747
+Snmp\/web Adapter 1024748
+Snmp\/web Adapter 1024921
+Snmp\/web Plug-in Adapter 1024746
+Snmp\/web Plug-in Adapter 1024747
+Snmp\/web Plug-in Adapter 1024748
+Snmp\/web Plug-in Adapter 1024921
+Svi Ii Ap Positioner Device Type Manager
+Ups Snmp Web Adapter Firmware
+Ups Snmp Web Adapter Firmware
+Vector Device Type Manager
+Cimplicity
+Historian
+Ifix
